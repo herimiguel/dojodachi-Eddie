@@ -1,12 +1,15 @@
 using System;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.IO;
+// using Microsoft.AspNetCore.Hosting;
 
 
 namespace dojodachi.Controllers
 {
     public class DachiController : Controller
     {
+        
         [HttpGet]
         [Route("")]
         public IActionResult Index()
