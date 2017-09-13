@@ -1,0 +1,10 @@
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/C#Assignments/dojodachi/bin/Debug/netcoreapp1.1/dojodachi.deps.json
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/C#Assignments/dojodachi/bin/Debug/netcoreapp1.1/dojodachi.runtimeconfig.json
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/C#Assignments/dojodachi/bin/Debug/netcoreapp1.1/dojodachi.runtimeconfig.dev.json
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/C#Assignments/dojodachi/bin/Debug/netcoreapp1.1/dojodachi.dll
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/C#Assignments/dojodachi/bin/Debug/netcoreapp1.1/dojodachi.pdb
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/C#Assignments/dojodachi/obj/Debug/netcoreapp1.1/dojodachi.csproj.CoreCompileInputs.cache
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/C#Assignments/dojodachi/obj/Debug/netcoreapp1.1/dojodachi.AssemblyInfoInputs.cache
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/C#Assignments/dojodachi/obj/Debug/netcoreapp1.1/dojodachi.AssemblyInfo.cs
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/C#Assignments/dojodachi/obj/Debug/netcoreapp1.1/dojodachi.dll
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/C#Assignments/dojodachi/obj/Debug/netcoreapp1.1/dojodachi.pdb
